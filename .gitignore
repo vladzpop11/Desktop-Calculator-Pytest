@@ -1,0 +1,12 @@
+# Fisiere de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fisiere de cache generate de Pytest
+.pytest_cache/
+
+# Mediul virtual (daca folosesti unul)
+venv/
+env/
